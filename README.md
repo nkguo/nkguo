@@ -22,17 +22,17 @@ Here are some ideas to get you started:
   <!-- Profile Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=NkGuo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    <a href="https://github.com/NkGuo" target="_blank">
+    <a href="https://github.com/nkguo" target="_blank">
       <img src="https://img.shields.io/badge/⌨️_Average_WPM-90+-brightgreen?&logo=keyboard&logoColor=white" alt="Typing Speed"/>
     </a>
   </p>
 
   <!-- GitHub Stats Badges -->
   <p align="center">
-    <a href="https://github.com/NkGuo?tab=followers">
-      <img src="https://img.shields.io/github/followers/NickGuo?label=Followers&style=social" alt="GitHub followers">
+    <a href="https://github.com/nkguo?tab=followers">
+      <img src="https://img.shields.io/github/followers/nkguo?label=Followers&style=social" alt="GitHub followers">
     </a>
-    <img src="https://img.shields.io/github/stars/NickGuo?label=Stars&style=social" alt="GitHub User's stars">
+    <img src="https://img.shields.io/github/stars/nkguo?label=Stars&style=social" alt="GitHub User's stars">
   </p>
 
   <!-- Personal Style -->
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   **.NET Full Stack Developer** @ Arc'teryx | .NET Enthusiast | Problem Solver 
 
   
-  📫 Reach Me: [NkGuo@hotmail.com](mailto:NkGuo@hotmail.com)
+  📫 Reach Me: [nkguo@hotmail.com](mailto:nkguo@hotmail.com)
 </div>
 
 <!-- Divider -->
