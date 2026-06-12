@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
   <!-- Typing Animation -->
   <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6495ED&center=true&vCenter=true&width=600&lines=Welcome+to+my+coding+universe!;.NET+Enthusiast;Always+Learning+New+Things;" alt="Typing SVG" /> -->
-  **.NET Full Stack Developer** @ Arc'teryx | .NET Enthusiast | Problem Solver 
+  **Senior Software Engineer** @ Arc'teryx | .NET Enthusiast | Problem Solver 
 
   
   📫 Reach Me: [nkguo@hotmail.com](mailto:nkguo@hotmail.com)
